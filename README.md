@@ -47,6 +47,8 @@ The data given to us contains the information about past loan applicants and whe
 - Numpy - version 1.21.5
 - Pandas - version 1.3.5
 - Seaborn - version 0.11.2
+- dataprep - 0.4.0
+- re - 2.2.1
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
