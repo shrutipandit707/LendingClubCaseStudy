@@ -62,8 +62,12 @@ Give credit here.
 
 ## Contact
 Created by 
-- ![Shruti DP](https://avatars.githubusercontent.com/u/101404643?v=4) [shrutipandit707](https://github.com/shrutipandit707) 
-- [avs-abhishek123](https://github.com/avs-abhishek123)  
+
+| Contributors | GitHub | Linkedin |
+| ----------- | ----------- | ----------- |
+| Shruti Pandit  | [GitHub](https://github.com/shrutipandit707) | [LinkedIn](https://www.linkedin.com/in/shruti-pandit-7b946883/) |
+| Allena Venkata Sai Abhishek | [GitHub](https://github.com/avs-abhishek123) | [LinkedIn](https://www.linkedin.com/in/allena-venkata-sai-abhishek-381937156/) |
+
   feel free to contact us!
 
 
