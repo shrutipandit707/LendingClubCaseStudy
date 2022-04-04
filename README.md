@@ -61,8 +61,8 @@ Give credit here.
 
 ## Contact
 Created by 
-- [@shrutipandit707](https://github.com/shrutipandit707) 
-- [@avs-abhishek123](https://github.com/avs-abhishek123)  
+- [shrutipandit707](https://github.com/shrutipandit707) 
+- [avs-abhishek123](https://github.com/avs-abhishek123)  
   feel free to contact us!
 
 
