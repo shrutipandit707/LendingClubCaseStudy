@@ -62,7 +62,7 @@ Give credit here.
 
 ## Contact
 Created by 
-- [shrutipandit707](https://github.com/shrutipandit707) 
+- ![Shruti DP](https://avatars.githubusercontent.com/u/101404643?v=4) [shrutipandit707](https://github.com/shrutipandit707) 
 - [avs-abhishek123](https://github.com/avs-abhishek123)  
   feel free to contact us!
 
