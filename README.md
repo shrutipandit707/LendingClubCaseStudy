@@ -40,6 +40,59 @@ The data given to us contains the information about past loan applicants and whe
 - 5.Those who are not working or have less than 1 year of work experience have high chances of getting charged off.So, Lending Club should issue less loans to these kind of applicants.
 - 6.Small Business Owners default most.So, Lending Club should issue less loans to these kind of applicants.
 
+Heavy impact
+- Higher interest rate (above 13%)
+- Higher revolving line utilization rate (above 58%)
+- Repayment term (5 years)
+- Loan grade & sub-grade (D to G)
+- Missing employment record
+- Loan purpose (small business, renewable energy, educational)
+- Derogatory public records (1 or 2)
+- Public bankruptcy records (1 or 2)
+
+Minor Impact
+- Higher loan amount (above 16K)
+- Higher installment amount (above 327)
+- Lower annual income (below 37K)
+- Higher debt to income ratio (above 15%)
+- Applicant’s address state (NV, SD, AK, FL, etc.)
+- Loan issue month (Dec, May, Sep)
+
+Combined impact
+- High loan amount & interest rate for lower income group
+- High installment and longer repayment term
+- Home ownership (other) and loan purpose (car, moving or small business)
+- Residential state and loan purpose
+- Income group and loan purpose
+
+Loan Acceptance
+- For Weddings, Major Purchases, Car
+and Credit Card purposes.
+- Loan amount ranging between 5,000
+USD and 10,000 USD.
+- Annual Income of applicants more
+than 1,00,000 USD.
+- Calculated interest rate for loan less
+than 7.5%.
+- Grade A&B.
+- Loan applicant is owning a house.
+- Loans for 36 months term.
+
+
+Loan Risk Factors
+- Loans for purpose of Small Business.
+- Loans for loan amount 30,000 USD
+and above.
+- Loan applicants annual income
+whose annual income is less than 25000
+USD.
+- Loans having calculated interest rate
+more than 15%.
+- Loans in grade E, F&G.
+- Loan applicant is either living on rent
+or mortgage.
+- Loans for 60 months term.
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
