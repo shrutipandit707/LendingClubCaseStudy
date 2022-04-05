@@ -51,19 +51,19 @@ Heavy impact
 - Public bankruptcy records (1 or 2)
 
 Minor Impact
-- Higher loan amount (above 16K)
-- Higher installment amount (above 327)
-- Lower annual income (below 37K)
-- Higher debt to income ratio (above 15%)
+- Higher loan amount (above 15.5K)
+- Higher installment amount (above 325)
+- Lower annual income (below 36.7K)
+- Higher debt to income ratio (above 14.7%)
 - Applicant’s address state (NV, SD, AK, FL, etc.)
-- Loan issue month (Dec, May, Sep)
+- Loan issue month (May, Sep, Dec)
 
 Combined impact
-- High loan amount & interest rate for lower income group
-- High installment and longer repayment term
+- High interest rate & loan amount for lower income applicants
+- Longer repayment term & High installment 
 - Home ownership (other) and loan purpose (car, moving or small business)
-- Residential state and loan purpose
-- Income group and loan purpose
+-Loan purpose & Residential state
+- Income group & loan purpose
 
 Loan Acceptance
 - For Weddings, Major Purchases, Car
