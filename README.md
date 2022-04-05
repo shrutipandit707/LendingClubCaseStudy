@@ -33,12 +33,12 @@ The data given to us contains the information about past loan applicants and whe
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- 1.Lending Club will be in profit if they give more loan amount as interest rate increases with higher loan amount
-- 2.A-grade is a top letter grade for a lender to assign to a borrower.Grades should be evaluated thoroughly before lending money
-- 3.A derogatory item is an entry that may be considered negative by lenders because it indicates risk and hurts your ability to qualify for credit or other services. Public records and collections are derogatory items because they reflect financial obligations that were not paid as agreed.Those who already have pub_rec value 1 or 2 have charged off chances higher than who have no Derogatory Public Record.pub_rec count 3-4 has less numbers so cannot reach on any conclusions.
-- 4.States NV,CA and FL states shows good number of charged offs in good number of applications.So, Lending Club should issue less loans in these states.
-- 5.Those who are not working or have less than 1 year of work experience have high chances of getting charged off.So, Lending Club should issue less loans to these kind of applicants.
-- 6.Small Business Owners default most.So, Lending Club should issue less loans to these kind of applicants.
+- If more loan amount is given Lending Club will be in profit because the interest rate increases with higher loan amount.
+- Grades should be analyzed thoroughly before lending money as A-grade is a top grade for lending.
+- A derogatory item can be considered as a negative entry by the lenders as it indicates public records & collections reflect financial obligations that were not paid as agreed. Inturn, risk and hurts your ability to qualify for credit or other services. Those who have pub_rec value 1 or 2 have higher chances of charged-off than who have no derogatory Public Record. pub_rec count with 3 or 4 cannot reach on any conclusions as there are less numbers.
+- States NV,CA and FL states & Dec, May, Sep are the Loan issue month shows high numbers of charged offs  in good number of applications. So, the Lending Club should issue less loans in these states  & during these issue months.
+- Less loans to these kind of applicants who are not working or have less than 1 year of work experience have high chances of getting charged off. 
+- Lending Club should issue less loans to Small Business Owners as they defaults the  most.
 
 Heavy impact
 - Higher interest rate (above 13%)
